@@ -5,7 +5,7 @@ author: Fadhly Permata <fadhly.permata@gmail.com>
 homepage: https://github.com/evandroarmandobitkabir/flutter_money_formatter
 
 environment:
-   sdk: '>=2.1.0 <4.0.0'
+   sdk: '>=3.0.0 <4.0.0'
 
 dependencies:
    flutter:
